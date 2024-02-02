@@ -171,7 +171,7 @@ namespace Agenzia_Delle_Entrate
                             else
                             {
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine("Il Cognome inserito non è in un Formato Valido");
+                                Console.WriteLine("Il Comune inserito non è in un Formato Valido");
                                 Console.ResetColor();
                             }
                             Console.WriteLine("===================================================");
