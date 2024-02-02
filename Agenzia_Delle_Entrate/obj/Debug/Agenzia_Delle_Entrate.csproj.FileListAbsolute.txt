@@ -1,0 +1,7 @@
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\bin\Debug\Agenzia_Delle_Entrate.exe.config
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\bin\Debug\Agenzia_Delle_Entrate.exe
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\bin\Debug\Agenzia_Delle_Entrate.pdb
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\obj\Debug\Agenzia_Delle_Entrate.csproj.AssemblyReference.cache
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\obj\Debug\Agenzia_Delle_Entrate.csproj.CoreCompileInputs.cache
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\obj\Debug\Agenzia_Delle_Entrate.exe
+C:\Users\avene\Desktop\CORSO EPICODE\BACK_END\ESERCIZI_BACKEND\1_WEEK\5_DAY\Agenzia_Delle_Entrate\Agenzia_Delle_Entrate\obj\Debug\Agenzia_Delle_Entrate.pdb
